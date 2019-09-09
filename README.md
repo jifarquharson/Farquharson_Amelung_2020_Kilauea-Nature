@@ -2,6 +2,7 @@
 Figures in Jupyter Notebook for Farquharson and Amelung [submitted], "*Extreme rainfall triggered the 2018 rift eruption at Kīlauea Volcano.*"
 
 **Contents**
+Farquharson_Amelung_Kilauea.ipynb Notebook containing necessary code for plotting publication quality figures as follows:
 - Figure 1: Location map and ground deformation data at Kilauea
 - Figure 2: Rainfall characteristics at Kilauea since 2000
 - Figure 3: Model metadata (hydraulic diffusivity) and maximum pressure change modelled
