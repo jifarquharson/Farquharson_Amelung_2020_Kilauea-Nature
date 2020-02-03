@@ -1,4 +1,4 @@
-# Farquharson_Amelung_2019_Kilauea 
+# Farquharson_Amelung_2020_Kilauea 
 Figures in Jupyter Notebook for Farquharson and Amelung [accepted], "*Extreme rainfall triggered the 2018 rift eruption at Kīlauea Volcano.*"
 
 **Contents**
