@@ -24,3 +24,7 @@ This work was supported by funding from the National Aeronautics and Space Admin
 Satellite-derived rainfall data (TRMM and GPM satellite data) are available from the National Aeronautics and Space Administrations’s EarthData GES DISC portal (http://dx.doi.org/10.5067/TRMM/TMPA/3H/7). 
 
  Rainfall gauge data are available from the National Oceanic and Atmospheric Administration’s National Centers for Environmental Information climate data portal (https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USC00511303/detail). Vertical GPS data are available from the Nevada Geodetic Laboratory (http://geodesy.unr.edu/NGLStationPages/stations/)  (stations CRIM, AHUP, MKAI, KTPM). Additional datasets generated during the current study are available from the corresponding author on reasonable request. Sentinel-1 Ascending- and Descending-track SAR acquisitions were obtained through UNAVCO’s Seamless SAR Archive (https://github.com/bakerunavco/SSARA). Vertical displacement (velocity) maps of Kilauea for the time periods 2014—2017 and 2018 are available at (https://doi.org/10.5281/zenodo.3459589), alongside the SRTM DEM used for plotting data.
+
+**Citation**
+
+This GitHub repository is citable via its doi: [https://doi.org/10.5281/zenodo.3635944](10.5281/zenodo.3635944)
