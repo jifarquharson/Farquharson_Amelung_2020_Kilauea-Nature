@@ -27,4 +27,4 @@ Satellite-derived rainfall data (TRMM and GPM satellite data) are available from
 
 **Citation**
 
-This GitHub release (v1.0) is citable via its doi: [https://doi.org/10.5281/zenodo.3635944](10.5281/zenodo.3635944)
+This GitHub release (v1.0) is citable via its doi: [![DOI](https://zenodo.org/badge/207348757.svg)](https://zenodo.org/badge/latestdoi/207348757)
